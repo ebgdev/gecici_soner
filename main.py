@@ -7,3 +7,4 @@ def ciftler(lst):
             res.append(sayi)
     return res
 
+print()
