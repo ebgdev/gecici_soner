@@ -1,10 +1,8 @@
-lst = [i for i in range(100)]
+from icecream import ic
+lst = ["kucuk","kazak","ada","soner","erfan"]
 
-def ciftler(lst):
-    res = []
-    for sayi in lst:
-        if sayi % 2 == 0:
-            res.append(sayi)
-    return res
-
-print()
+def isPalindorme(word):
+    return word == word[::-1]
+        
+for word in lst:
+    ic(word,isPalindorme(word))
