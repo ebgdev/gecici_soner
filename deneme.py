@@ -1,4 +1,7 @@
 print("programin a kismi yapildi.")
 print("programin b kismi yapildi.")
 print("programin c kismi yapildi.")
+print("programin d kismi yapildi.")
+print("programin e kismi yapildi.")
+print("programin f kismi yapildi.")
 print()
