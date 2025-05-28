@@ -18,3 +18,4 @@ def gt_3(astr):
 for astr in lst:
     ic(gt_3(astr))
     
+print('hello world')
