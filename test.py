@@ -3,3 +3,7 @@ print("part B of programming get done.")
 print("part C of programming get done.")
 print("part D of programming get done.")
 print("part E of programming get done.")
+
+
+print("part F of programming get done.")
+print("part G of programming get done.")
