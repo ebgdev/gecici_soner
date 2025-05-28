@@ -25,3 +25,4 @@ def isPowTwo(num:int) -> bool:
     
     
 print(isPowTwo(32))
+print("i love python")
